@@ -1,20 +1,5 @@
 import turtle as t
-t.shape("turtle")
+for i in range(0,4):
 
-t.write(t.position())
-
-t.forward(100)
-
-t.write(t.position())
-
-t.left(120)
-t.forward(100)
-
-t.write(t.position())
-
-t.left(120)
-
-t.forward(100)
-
-t.write(t.position())
-
+t.forward(200)
+t.left(90)
